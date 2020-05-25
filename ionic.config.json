@@ -1,0 +1,7 @@
+{
+  "name": "naturessoul",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
